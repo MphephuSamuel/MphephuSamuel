@@ -50,15 +50,7 @@ Key Modules:
 - Agile Leadership: Certified Scrum Master  
 - Mentorship: Supporting 20+ first-year students  
 - Teaching: Academic tutor in Statistics, Web & Mobile Development  
-
----
-
-## 👨‍🏫 Leadership Experience  
-
-**First-Year Experience (FYE) Mentor**  
-*University of Mpumalanga | Feb 2024 – Present*  
-- Mentored 20+ first-year students academically and emotionally.  
-- Contributed to a 15% improvement in retention rates.  
+ 
 
 ---
 
