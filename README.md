@@ -57,7 +57,7 @@ Key Modules:
 ## 👨‍🏫 Leadership Experience  
 
 **First-Year Experience (FYE) Mentor**  
-*University of Mpumalanga | Feb 2024 – Present*  
+University of Mpumalanga | Feb 2024 – Present  
 - Mentored 20+ first-year students academically and emotionally  
 - Contributed to a 15% improvement in retention rates  
 
@@ -65,7 +65,25 @@ Key Modules:
 
 ## 📂 Project Portfolio  
 
-Explore my work on [GitHub](https://github.com/sammydev) and [Portfolio Website](https://sammydev.vercel.app) – featuring 40+ projects across full-stack development, cloud deployment, IoT integration, and more.
+Explore my work on [GitHub](https://github.com/MphephuSamuel) and [Portfolio Website](https://sammydev.vercel.app) – featuring 40+ projects across full-stack development, cloud deployment, IoT integration, and more.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=MphephuSamuel&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=MphephuSamuel&show_icons=true&theme=default"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=MphephuSamuel&show_icons=true" alt="GitHub Stats" />
+  </picture>
+</p>
 
 ---
 
