@@ -36,17 +36,17 @@ Key Modules:
 **Backend Development**  
 - Java: Jakarta EE, Spring Boot  
 - Python: FastAPI, Flask  
-- Node.js: Express.js  
+- Javascript: Node.js: Express.js 
 - Databases: PostgreSQL, MySQL, Firebase, MongoDB  
 
 **Frontend Development**  
 - React.js  
-- Flutter  
+- Flutter, Kotlin  
 - HTML5, CSS3, JavaScript  
 
 **DevOps & Cloud**  
 - Docker, Docker Compose  
-- Microsoft Azure (basic deployment), Firebase Hosting  
+- Microsoft Azure (basic deployment), and other cloud providers 
 - Git/GitHub (CI/CD workflows, feature branching)  
 
 ### Soft Skills  
