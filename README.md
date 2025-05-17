@@ -19,7 +19,9 @@ I’m a final-year Bachelor of ICT student at the University of Mpumalanga, pass
 Key Modules:  
 - Artificial Intelligence Applications  
 - Cybersecurity  
-- Programming Techniques  
+- Programming Techniques
+- Database Systems
+- Software Engineering  
 - Communication Networking  
 - Mobile Development  
 - Web Development  
