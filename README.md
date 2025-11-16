@@ -53,7 +53,7 @@ Key Modules:
 - Python: scikit-learn, TensorFlow, NumPy, Pandas  
 - Techniques: Classification, Regression, Clustering, Feature Engineering  
 - Model Evaluation: Accuracy, Precision/Recall, Confusion Matrices  
-- Practical Projects: Image Feature Detection (TensorFlow), Sentiment Analysis, Predictive Models  
+- Practical Projects: Detected Driver Detection (TensorFlow), Sentiment Analysis, Predictive Models  
 
 ### Soft Skills  
 - Agile Leadership (Certified Scrum Master)  
