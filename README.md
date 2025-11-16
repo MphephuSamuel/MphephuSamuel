@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Tshifhiwa Samuel Mphephu
 
-🎓 Final-year Bachelor of ICT student | 💻 Full-stack Developer | ☁️ Cloud Enthusiast
+🎓 Final-year Bachelor of ICT student | 💻 Full-stack Developer | ☁️ Cloud Enthusiast | 🤖 Machine Learning Practitioner
 
 ---
 
 ## 🎯 About Me
 
-I’m a final-year Bachelor of ICT student at the University of Mpumalanga, passionate about software development, innovation, and solving real-world problems. With strong experience in backend development and growing proficiency in frontend and cloud engineering, I thrive on collaboration, mentoring peers, and delivering high-quality tech solutions.
+I’m a final-year Bachelor of ICT student at the University of Mpumalanga, passionate about software development, machine learning, innovation, and solving real-world problems. With strong experience in backend development and growing proficiency in frontend, ML, and cloud engineering, I thrive on collaboration, mentoring peers, and delivering high-quality tech solutions.
 
 ---
 
@@ -19,8 +19,8 @@ I’m a final-year Bachelor of ICT student at the University of Mpumalanga, pass
 Key Modules:  
 - Artificial Intelligence Applications  
 - Cybersecurity  
-- Programming Techniques
-- Database Systems
+- Programming Techniques  
+- Database Systems  
 - Software Engineering  
 - Communication Networking  
 - Mobile Development  
@@ -36,7 +36,7 @@ Key Modules:
 **Backend Development**  
 - Java: Jakarta EE, Spring Boot  
 - Python: FastAPI, Flask  
-- Javascript: Node.js: Express.js 
+- JavaScript: Node.js: Express.js  
 - Databases: PostgreSQL, MySQL, Firebase, MongoDB  
 
 **Frontend Development**  
@@ -46,8 +46,14 @@ Key Modules:
 
 **DevOps & Cloud**  
 - Docker, Docker Compose  
-- Microsoft Azure (basic deployment), and other cloud providers 
+- Microsoft Azure (basic deployment), and other cloud providers  
 - Git/GitHub (CI/CD workflows, feature branching)  
+
+**Machine Learning & Data Science**  
+- Python: scikit-learn, TensorFlow, NumPy, Pandas  
+- Techniques: Classification, Regression, Clustering, Feature Engineering  
+- Model Evaluation: Accuracy, Precision/Recall, Confusion Matrices  
+- Practical Projects: Image Feature Detection (TensorFlow), Sentiment Analysis, Predictive Models  
 
 ### Soft Skills  
 - Agile Leadership (Certified Scrum Master)  
